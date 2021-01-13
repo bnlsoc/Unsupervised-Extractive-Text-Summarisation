@@ -230,8 +230,11 @@ for key in numeric_data:
 <b><u>Similarly, in the following code bloks, we take into account sentence length, sentence ordering, uppercase sentence,heading matches, frequency</u> </b>
     
 <hr style="height: 2px">
+
 <h5>Formula for sentence length</h5>
-![formula](sent_length.jpg)
+
+![sent_length](https://user-images.githubusercontent.com/75802971/104480746-e6557300-55ea-11eb-8dfc-8a4f9e8b7d22.jpg)
+
 
 ```python
 #sentence_length
