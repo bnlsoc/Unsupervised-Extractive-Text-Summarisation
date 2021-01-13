@@ -231,7 +231,7 @@ for key in numeric_data:
     
 <hr style="height: 2px">
 <h5>Formula for sentence length</h5>
-<img src="./sent_length.jpg">
+<img src="sent_length.jpg">
 
 
 ```python
