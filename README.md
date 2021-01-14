@@ -251,8 +251,8 @@ for sentence in sent_tokens:
 
 <hr style="height: 2px">
 <h5>Formula for sentence Position</h5>
-<img src="./sent_pos.jpg">
 
+![sent_pos](https://user-images.githubusercontent.com/75802971/104632147-4a4b6a80-56c3-11eb-9634-72288299a020.jpg)
 
 ```python
 #sentence_position
